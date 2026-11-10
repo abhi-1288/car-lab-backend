@@ -12276,7 +12276,64 @@
         "imageId": 74329
       }
     ],
-    "colors": []
+    "colors": [
+      {
+        "colorId": 2567,
+        "name": "Everest White",
+        "hexCode": "#ffffff",
+        "baseColor": "White",
+        "image": "https://stimg.cardekho.com/images/car-images/930x620/Mahindra/Thar-ROXX/11938/1778492238493/EVEREST-WHITE_eaebee.jpg"
+      },
+      {
+        "colorId": 2771,
+        "name": "Stealth Black",
+        "hexCode": "#191a18",
+        "baseColor": "Black",
+        "image": "https://stimg.cardekho.com/images/car-images/930x620/Mahindra/Thar-ROXX/11938/1778492238493/STEALTH-BLACK_0e0f0b.jpg"
+      },
+      {
+        "colorId": 3229,
+        "name": "Nebula Blue",
+        "hexCode": "#002038",
+        "baseColor": "Blue",
+        "image": "https://stimg.cardekho.com/images/car-images/930x620/Mahindra/Thar-ROXX/11938/1778492238493/NEBULA-BLUE_3c5c76.jpg"
+      },
+      {
+        "colorId": 2304,
+        "name": "Battleship Gray",
+        "hexCode": "#565751",
+        "baseColor": "Grey",
+        "image": "https://stimg.cardekho.com/images/car-images/930x620/Mahindra/Thar-ROXX/11938/1778492238493/BATTLESHIP-GREY_7b8693.jpg"
+      },
+      {
+        "colorId": 2211,
+        "name": "Deep Forest",
+        "hexCode": "#282c29",
+        "baseColor": "Silver",
+        "image": "https://stimg.cardekho.com/images/car-images/930x620/Mahindra/Thar-ROXX/11938/1778492238493/DEEP-FOREST_353a30.jpg"
+      },
+      {
+        "colorId": 3377,
+        "name": "Tango Red",
+        "hexCode": "#e20021",
+        "baseColor": "Red",
+        "image": "https://stimg.cardekho.com/images/car-images/930x620/Mahindra/Thar-ROXX/11938/1778492238493/TANGO-RED_c30f29.jpg"
+      },
+      {
+        "colorId": 3368,
+        "name": "Burnt Sienna",
+        "hexCode": "#7b4e3b",
+        "baseColor": "Brown",
+        "image": "https://stimg.cardekho.com/images/car-images/930x620/Mahindra/Thar-ROXX/11938/1778492238493/BURNT-SIENNA_7e5540.jpg"
+      },
+      {
+        "colorId": 3288,
+        "name": "Citrine Yellow",
+        "hexCode": "#ddcd3d",
+        "baseColor": "Yellow",
+        "image": "https://stimg.cardekho.com/images/car-images/930x620/Mahindra/Thar-ROXX/11938/1778492238493/CITRINE-YELLOW_e6c44e.jpg"
+      }
+    ]
   },
   {
     "carId": "mahindra-vision-s",

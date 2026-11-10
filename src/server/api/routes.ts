@@ -48,6 +48,12 @@ router.get("/cars/:slug/prices", (req, res) => {
   res.json(p);
 });
 
+router.get("/cars/:slug/images", (req, res) => {
+  const images = catalogueService.getImages(req.params.slug);
+  if (!images) return res.status(404).json({ error: "Not found" });
+  res.json(images);
+});
+
 router.get("/brands", (_req, res) => {
   res.json(catalogueService.listBrands());
 });
